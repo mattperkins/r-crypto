@@ -1,4 +1,4 @@
-# Ultra simple React.js starter project skeleton
+# React/Axios get cryptocompare.com api data
 
 ## Install dependencies and start server
 
